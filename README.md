@@ -1,4 +1,4 @@
-# An-automatic-pdf-file-printing-app
+# Automatic Shipping Label Printing Software
 This repository contains the source code and executable file of an automatic pdf file printing app, which works the best together with a barcode scanner to print out pdf format labels named with the bar codes. 
 
 ### The normal workflow for the executable is:
@@ -18,3 +18,4 @@ I have no acess to client's computer to test and debug this program at this mome
 1. Let the community uses and tests the code, and offer feedback and suggestions to me to hopefully solve the problem together
 2. Help those who are working on a similar task to have a good start point
 
+Contact me if you need help to customize this software to your specific needs.
