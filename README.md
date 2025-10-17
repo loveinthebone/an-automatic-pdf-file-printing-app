@@ -14,8 +14,10 @@ The executable was generated from the source code with "pyinstaller --onefile -w
 Both the source code and the executable runs well on my own Windows 7 PC with a virtual printer configured without any problem, but somehow the executable is not stable on a client's Windows 10 computer which has a printer and a barcode scanner connected. 
 I have no acess to client's computer to test and debug this program at this moment. Only way is to send them the executable file and ask them to test. By far, we haven't figured out what is the reason that sometimes the executable works, and sometimes not, in other words, the printer doesn't print anything.
 
+
 ### I am posting the source code and executable here with two purposes:
 1. Let the community uses and tests the code, and offer feedback and suggestions to me to hopefully solve the problem together
 2. Help those who are working on a similar task to have a good start point
 
+2025-10-17 Customer feedback suggested that the software has been used quite often in their warehouse, and the intial issue of sometimes printer doesn't print anything is gone. I guess the problem came from the fact that the name of the pdf files doesn't match the bar codes.
 Contact me if you need help to customize this software to your specific needs.
